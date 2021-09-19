@@ -1,4 +1,5 @@
 
 body { background-image: url(background1.jpg); }
 p  { color: white;} 
-tr {border-spacing: 20px;}
+h* {color: white;}
+p { align:middle;}
