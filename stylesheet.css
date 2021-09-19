@@ -1,4 +1,4 @@
 
 body { background-image: url(background1.jpg); }
 p  { color: white;} 
-table {border: 1px; border-spacing: 500px; width="100%";
+tr {border-spacing: 20px;}
