@@ -1,5 +1,5 @@
 
 body { background-image: url(background1.jpg); }
 p  { color: white;} 
-h* {color: white;}
+h1, h2, h3, h4 {color: white;}
 p { align:middle;}
