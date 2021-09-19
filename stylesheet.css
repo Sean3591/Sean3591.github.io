@@ -1,5 +1,5 @@
 
-body { background-image: url(background1.jpg); text-align:center; }
+body {width:1024px;, background-image: url(background1.jpg); text-align:center; }
 p  { color: white;} 
 h1 {color: white;}
 p { align:middle;}
