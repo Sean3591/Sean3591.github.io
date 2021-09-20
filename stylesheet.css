@@ -1,6 +1,6 @@
 
 body {background-image: url(background1.jpg); text-align:center; }
-p  { color: white;} 
+p  { color: white; text-align: left} 
 h1 {color: white;}
 p { align:middle;}
 .bannerwidth {text-align: center; width: 1024px;} 
